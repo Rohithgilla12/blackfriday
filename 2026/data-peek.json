@@ -1,0 +1,14 @@
+{
+  "name": "data-peek",
+  "url": "https://www.datapeek.dev/pricing?utm_source=indiegoodies",
+  "description": "Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse. Free for personal use",
+  "category": "developer-tools",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "40% off Pro yearly, applied automatically at checkout",
+  "pricing": "subscription",
+  "price": { "regular": 29, "sale": 17.4, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://raw.githubusercontent.com/Rohithgilla12/data-peek/main/apps/desktop/build/icon.png"
+}

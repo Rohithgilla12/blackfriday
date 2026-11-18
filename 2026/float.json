@@ -1,0 +1,15 @@
+{
+  "name": "Float",
+  "url": "https://float.gilla.fun/?utm_source=indiegoodies#pricing",
+  "description": "Floating Markdown scratchpad for Mac on a global hotkey. Stays over full-screen apps and saves notes as plain .md files",
+  "category": "writing",
+  "platforms": ["mac"],
+  "deal": "40% off Pro lifetime with code BF26FLOAT",
+  "code": "BF26FLOAT",
+  "pricing": "one-time",
+  "price": { "regular": 4.99, "sale": 2.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://float.gilla.fun/icon.png"
+}
